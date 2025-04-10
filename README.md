@@ -1,4 +1,4 @@
-# CEE298-2024Spring
+# CEE298-2025Spring
 
 Planning algorithms:
 
