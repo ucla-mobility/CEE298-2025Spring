@@ -1,4 +1,4 @@
-# CEE298-2024Spring
+# CEE298-2025Spring
 
 Colab Prediction Code:
 - [Colab](https://colab.research.google.com/drive/1PNWgrweI2q4AHb-v6SKcx_RisME36srR?usp=sharing)
