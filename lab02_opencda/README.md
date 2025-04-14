@@ -1,15 +1,15 @@
 # OpenCDA
 
-Lab slides: https://docs.google.com/presentation/d/1Ze8WRpf5-9L_m19j-S660coGTrfBazEC/edit?usp=sharing&ouid=106838674837148912002&rtpof=true&sd=true
-
+Lab slides: [https://docs.google.com/presentation/d/1Ze8WRpf5-9L_m19j-S660coGTrfBazEC/edit?usp=sharing&ouid=106838674837148912002&rtpof=true&sd=true
+](https://docs.google.com/presentation/d/1XOy93DK_SaEGdHvZgUuwxMu3oc2fBHYz/edit?usp=sharing&ouid=114113983341826877103&rtpof=true&sd=true)
 ## How to use 
 
-- Git clone CEE298-2024Spring repository:
+- Git clone CEE298-2025Spring repository:
 
   ```
-  git clone https://github.com/ucla-mobility/CEE298-2024Spring.git
-  # get into CEE298-2024Spring directory
-  cd CEE298-2024Spring
+  git clone https://github.com/ucla-mobility/CEE298-2025Spring.git
+  # get into CEE298-2025Spring directory
+  cd CEE298-2025Spring
   ```
 
 - Checkout `lab2_opencda` branch:
